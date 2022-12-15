@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Offesnive Security Proving Grounds Practice</b>
+- <b>Offensive Security Proving Grounds Practice</b>
   - [Praciting Penetration Testing and Methodology]
 - <b>ARP Spoofer (Python)</b>
   - [Link Comming Soon]
