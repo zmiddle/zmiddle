@@ -3,8 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Offensive Security Proving Grounds Practice</b>
-Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges:
+- <b>Offensive Security Proving Grounds Practice</b> - Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges:
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Algernon">Algernon</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wombo</a>
 - <b>ARP Spoofer (Python)</b>
