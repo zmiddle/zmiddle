@@ -23,9 +23,9 @@
 - 🔵 <b>Offensive Security Proving Grounds Practice</b> - Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges:
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Algernon">Algernon</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wombo</a>
-  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Squid</a>
-  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">ClamAV</a>
-  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wheels</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Squid">Squid</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/ClamAV">ClamAV</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wheels">Wheels</a>
 
 <h2>:page_facing_up: Certifications:</h2>
 
