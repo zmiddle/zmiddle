@@ -8,8 +8,7 @@
 - :shell: <a href="https://github.com/zmiddle/Reverse-Shell-Client/tree/main">Reverse Shell Client</a>
 - 🔐 <b>Ransomware Client and Server</b>
   - [Link Comming Soon]
-- 🤖 <b>Botnet Multi Client Server</b>
-  - [Link Comming Soon]
+- 🤖 <a href="https://github.com/zmiddle/Botnet-Multi-Client-Server/tree/main">Botnet Multi Client Server</a>
 - 💉 <b>SQL Injection Tool</b>
   - [Link Comming Soon]
 
