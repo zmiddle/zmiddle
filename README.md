@@ -16,13 +16,13 @@
 
 <h2>:triangular_flag_on_post: Capture the Flag Write-ups:</h2>
 
+Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges.
+
 - 🔳 <b>Hack The Box Lab Machines</b>
 
 - ☁️ <b>Try Hack Me Capture the Flag Challenges</b>
 
 - 🔵 <b>Offensive Security Proving Grounds Practice</b>
-- 
-Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges.
 
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Algernon">Algernon</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wombo</a>
