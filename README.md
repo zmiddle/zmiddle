@@ -6,7 +6,6 @@
 :warning: Don't be a bone head, these projects are for educational use only! :warning:
 
 - :shell: <a href="https://github.com/zmiddle/Reverse-Shell-Client/tree/main">Reverse Shell Client</a>
-- 
 - 🔐 <b>Ransomware Client and Server</b>
   - [Link Comming Soon]
 - 🤖 <b>Botnet Multi Client Server</b>
