@@ -1,8 +1,8 @@
 <h1>Hi, I'm Zach!</h1>
-<a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, <a href="https://zachmiddleton.info">Security Enthusiast</a>, and a <a href="https://github.com/zmiddle">Programmer</a>.
+<a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, <a href="https://zachmiddleton.info">Security Enthusiast</a>, and <a href="https://github.com/zmiddle">Programmer</a>.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+:warning: Don't be a bone head, these projects are for educational use only!
 - <b>Reverse Shell Client (Python)</b>
   - [Link Comming Soon]
 - <b>Ransomware Client and Server (Python)</b>
