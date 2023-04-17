@@ -5,13 +5,13 @@
 
 :warning: Don't be a bone head, these projects are for educational use only! :warning:
 
-:shell: <b>Reverse Shell Client (Python)</b>
+- :shell: <b>Reverse Shell Client (Python)</b>
   - [Link Comming Soon]
-🔐 <b>Ransomware Client and Server (Python)</b>
+- 🔐 <b>Ransomware Client and Server (Python)</b>
   - [Link Comming Soon]
-🤖 <b>Botnet Multi Client Server (Python)</b>
+- 🤖 <b>Botnet Multi Client Server (Python)</b>
   - [Link Comming Soon]
-💉 <b>SQL Injection Tool (Python)</b>
+- 💉 <b>SQL Injection Tool (Python)</b>
   - [Link Comming Soon]
 
 <h2>:triangular_flag_on_post: Capture the Flag Write-ups:</h2>
