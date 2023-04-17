@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-:warning: Don't be a bone head, these projects are for educational use only!
+:warning: Don't be a bone head, these projects are for educational use only! :warning:
 
 - <b>Reverse Shell Client (Python)</b>
   - [Link Comming Soon]
