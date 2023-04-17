@@ -29,6 +29,6 @@
 
 <h2>:page_facing_up: Certifications:</h2>
 
-- <b>CompTIA PenTest+ (https://www.comptia.org/certifications/pentest)</b>
-- <b>CompTIA Security+ (https://www.comptia.org/certifications/security)</b>
-- <b>CompTIA Network+ (https://www.comptia.org/certifications/network)</b>
+- 🔏 <b>CompTIA PenTest+ (https://www.comptia.org/certifications/pentest)</b>
+- 🔒 <b>CompTIA Security+ (https://www.comptia.org/certifications/security)</b>
+- 📞 <b>CompTIA Network+ (https://www.comptia.org/certifications/network)</b>
