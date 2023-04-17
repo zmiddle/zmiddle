@@ -15,9 +15,17 @@
   - [Link Comming Soon]
 
 <h2>:triangular_flag_on_post: Capture the Flag Write-ups:</h2>
+
+- 🔳 <b>Hack The Box</b>
+
+- ☁️ <b>Try Hack Me</b>
+
 - <b>Offensive Security Proving Grounds Practice</b> - Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges:
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Algernon">Algernon</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wombo</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Squid</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">ClamAV</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wheels</a>
 
 <h2>:page_facing_up: Certifications:</h2>
 
