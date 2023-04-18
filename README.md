@@ -1,5 +1,5 @@
 <h1>Hi, I'm Zach!</h1>
-<a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, <a href="https://zachmiddleton.info">Security Enthusiast</a>, and <a href="https://github.com/zmiddle">Programmer</a>.
+<a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, <a href="https://zachmiddleton.info">Information Security Researcher</a>, and <a href="https://github.com/zmiddle">Programmer</a>.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
