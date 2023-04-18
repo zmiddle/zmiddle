@@ -32,10 +32,10 @@ Practicing Penetration Testing and Methodology by completing CTFs and Hacking Ch
 
 - ☁️ <b>Try Hack Me Capture the Flag Challenges</b>
 
-  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Basic-Pentesting.md">Basic-Pentesting</a>
-  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Pickle-Rick.md">Pickle-Rick</a>
-  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Root-Me.md">Root-Me</a>
-  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Simple-CTF.md">Simple-CTF</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Basic-Pentesting.md">Basic-Pentesting</a> "This is a machine that allows you to practise web app hacking and privilege escalation".
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Pickle-Rick.md">Pickle-Rick</a> "A Rick and Morty CTF. Help turn Rick back into a human!".
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Root-Me.md">Root-Me</a> "A ctf for beginners, can you root me?".
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Simple-CTF.md">Simple-CTF</a> "Beginner level ctf"
   
 - 🔵 <b>Offensive Security Proving Grounds Practice</b>
 
