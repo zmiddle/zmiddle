@@ -17,18 +17,18 @@ Practicing Penetration Testing and Methodology by completing CTFs and Hacking Ch
 
 - 🔳 <b>Hack The Box Lab Machines</b>
 
-  - Lame
-  - Cap
-  - Knife
-  - Blue
-  - Legacy
-  - Jerry
-  - Ransom
-  - Poison
-  - Celestial
-  - Chatterbox
-  - Bastard
-  - Jeeves
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Lame.md">Lame</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Cap.md">Cap</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Knife.md">Knife</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Blue.md">Blue</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Legacy.md">Legacy</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Jerry.md">Jerry</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Ransom.md">Ransom</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Poison.md">Poison</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Celestial.md">Celestial</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Chatterbox.md">Chatterbox</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Bastard.md">Bastard</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Jeeves.md">Jeeves</a>
 
 - ☁️ <b>Try Hack Me Capture the Flag Challenges</b>
 
