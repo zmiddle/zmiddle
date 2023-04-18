@@ -16,12 +16,26 @@
 Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges.
 
 - 🔳 <b>Hack The Box Lab Machines</b>
+
   - Basic Pentesting
   - Pickle Rick
   - Root Me
   - Simple CTF
   
 - ☁️ <b>Try Hack Me Capture the Flag Challenges</b>
+
+  - Lame
+  - Cap
+  - Knife
+  - Blue
+  - Legacy
+  - Jerry
+  - Ransom
+  - Poison
+  - Celestial
+  - Chatterbox
+  - Bastard
+  - Jeeves
 
 - 🔵 <b>Offensive Security Proving Grounds Practice</b>
 
