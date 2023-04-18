@@ -15,7 +15,7 @@
 
 Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges.
 
-- 🔳 <b>Hack The Box Lab Machines</b>
+- 🟩 <b>Hack The Box Lab Machines</b>
 
   - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Lame.md">Lame</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Cap.md">Cap</a>
