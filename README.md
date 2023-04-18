@@ -32,10 +32,10 @@ Practicing Penetration Testing and Methodology by completing CTFs and Hacking Ch
 
 - ☁️ <b>Try Hack Me Capture the Flag Challenges</b>
 
-  - Basic Pentesting
-  - Pickle Rick
-  - Root Me
-  - Simple CTF
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Basic-Pentesting.md">Basic-Pentesting</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Pickle-Rick.md">Pickle-Rick</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Root-Me.md">Root-Me</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/TryHackMe/Simple-CTF.md">Simple-CTF</a>
   
 - 🔵 <b>Offensive Security Proving Grounds Practice</b>
 
