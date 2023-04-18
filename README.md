@@ -17,13 +17,6 @@ Practicing Penetration Testing and Methodology by completing CTFs and Hacking Ch
 
 - 🔳 <b>Hack The Box Lab Machines</b>
 
-  - Basic Pentesting
-  - Pickle Rick
-  - Root Me
-  - Simple CTF
-  
-- ☁️ <b>Try Hack Me Capture the Flag Challenges</b>
-
   - Lame
   - Cap
   - Knife
@@ -37,6 +30,13 @@ Practicing Penetration Testing and Methodology by completing CTFs and Hacking Ch
   - Bastard
   - Jeeves
 
+- ☁️ <b>Try Hack Me Capture the Flag Challenges</b>
+
+  - Basic Pentesting
+  - Pickle Rick
+  - Root Me
+  - Simple CTF
+  
 - 🔵 <b>Offensive Security Proving Grounds Practice</b>
 
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Algernon">Algernon</a>
