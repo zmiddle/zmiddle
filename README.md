@@ -40,7 +40,7 @@ Practicing Penetration Testing and Methodology by completing CTFs and Hacking Ch
 - 🔵 <b>Offensive Security Proving Grounds Practice</b>
 
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Algernon">Algernon</a>
-  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wombo</a> Wombo is an intermediate Linux CTF challenge that features a Redis RCE exploit
+  - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wombo</a> is an intermediate Linux CTF challenge that features a Redis RCE exploit
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Squid">Squid</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/ClamAV">ClamAV</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wheels">Wheels</a>
