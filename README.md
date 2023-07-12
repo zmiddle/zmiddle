@@ -19,15 +19,10 @@ Practicing Penetration Testing and Methodology by completing CTFs and Hacking Ch
 
 - 🟩 <b>Hack The Box Lab Machines</b>
 
-  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Lame.md">Lame</a>
-  
-    [<img height="200" width="200px" src="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/lame/Lame%20Pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/1)
-  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Knife.md">Knife</a>
+  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Lame.md">Lame</a> <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Knife.md">Knife</a> <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Jerry.md">Jerry</a>
 
-[<img height="200" width="200px" src="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/knife/Knife%20Pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/347)
-  - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Jerry.md">Jerry</a>
+  - [<img height="200" width="200px" src="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/lame/Lame%20Pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/1) [<img height="200" width="200px" src="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/knife/Knife%20Pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/347) [<img height="200" width="200px" src="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/jerry/Jerry%20Pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/144)
 
-  [<img height="200" width="200px" src="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/jerry/Jerry%20Pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/144)
 
 - ☁️ <b>Try Hack Me Capture the Flag Challenges</b>
 
