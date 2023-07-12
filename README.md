@@ -21,7 +21,7 @@ Practicing Penetration Testing and Methodology by completing CTFs and Hacking Ch
 
   - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Lame.md">Lame</a>
   
-    [<img src="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Lame%20Pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/1)
+    [<img height="200" width="200px" src="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Lame%20Pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/1)
   - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Cap.md">Cap</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Knife.md">Knife</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/blob/main/HackTheBox/Blue.md">Blue</a>
