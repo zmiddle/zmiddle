@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zach!
   
-<a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, Capture the flag addict, and passionate 
+<a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, Capture the flag addict, and passionate about cybersecurity! 
 </h1>
 
 <h2>:triangular_flag_on_post: Capture the Flag Write-ups:</h2>
