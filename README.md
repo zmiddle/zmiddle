@@ -1,10 +1,10 @@
 <h1>Hi, I'm Zach!
   
-<a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, capture the flag addict, and passionate about cybersecurity! 
+<a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, capture the flag addict, passionate about information security, and computer science! 
 </h1>
 
 <h2>:triangular_flag_on_post: Practical Exploitation: A Detailed Approach to Mastering Penetration Testing:</h2>
-Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges.
+Masterting my practicing penetration testing skills and perfecting my methodology by completing CTFs and hacking challenges. I create content on how to navigate these challenges to help anyone else learning about penetration testing.
 
 - 🔵 <b>Offensive Security Proving Grounds Practice</b>
 
