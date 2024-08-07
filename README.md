@@ -6,7 +6,7 @@
 <h2>:triangular_flag_on_post: Capture the Flag Write-ups:</h2>
 Practicing Penetration Testing and Methodology by completing CTFs and Hacking Challenges.
 
-- 🔵 <b>Offensive Security Proving Grounds Practice</b>
+- 🔵 <b>Practical Exploitation: A Detailed Approach to Mastering Penetration Testing - Offensive Security Proving Grounds Practice</b>
 
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Algernon">Algernon</a> is an easy Windows CTF challenge that features a Smarter Mail exploit.
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wombo</a> is an intermediate Linux CTF challenge that features a Redis RCE exploit.
