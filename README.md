@@ -15,7 +15,7 @@ Mastering my penetration testing skills and perfecting my methodology by complet
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/ClamAV">ClamAV</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wheels">Wheels</a>
 
-<h2>🍯 Defending Against Actual Attackers in an Azure-Depployed Honey Network:</h2>
+<h2>🍯 Defending Against Actual Attackers in an Azure-Depployed Honey Network</h2>
   
   - Network Diagram of the Honey Network (Coming Soon)
   - What is happening here? A flowchart of expected activity (Coming Soon)
