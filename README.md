@@ -15,14 +15,7 @@ Mastering my practicing penetration testing skills and perfecting my methodology
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/ClamAV">ClamAV</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wheels">Wheels</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-:warning: Don't be a bone head, these projects are for educational use only! :warning:
-
-- :shell: <a href="https://github.com/zmiddle/Reverse-Shell-Client/tree/main">Reverse Shell Client</a>
-- 🔐 <a href="https://github.com/zmiddle/Ransomware">Ransomware Client and Server</a>
-- 🤖 <a href="https://github.com/zmiddle/Botnet-Multi-Client-Server/tree/main">Botnet Multi Client Server</a>
-- 💉 <b>SQL Injection Tool</b>
+<h2>👨‍💻 Deploying and performing Incident Response on Honey Network in Azure:</h2>
   - [Link Comming Soon]
 
 <h2>:page_facing_up: Certifications:</h2>
