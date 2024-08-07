@@ -16,6 +16,7 @@ Mastering my practicing penetration testing skills and perfecting my methodology
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wheels">Wheels</a>
 
 <h2>🍯 Deploying and performing Incident Response on Honey Network in Azure:</h2>
+  
   - Network Diagram of the Honey Network (Coming Soon)
   - What is happening here? A flowchart of expected activity (Coming Soon)
   - Incident Response Procedure (Coming Soon)
