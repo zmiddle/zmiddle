@@ -1,5 +1,5 @@
 <h1>Hi, I'm Zach! ✋</h1>
-<h2>💻<a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, passionate about ethical hacking, and cybersecurity!
+<h2>💻 <a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, passionate about ethical hacking, and cybersecurity!
 
 <h2>:triangular_flag_on_post: The Best Defense is a Good Offense: A Detailed Approach to Mastering Ethical Hacking</h2>
 Mastering my penetration testing skills and perfecting my methodology by completing numerous CTFs and hacking challenges. I create content to help others navigate these challenges and learn about penetration testing. These write-ups are meant to be a learning resource and should not be abused in training environments or elsewhere!
