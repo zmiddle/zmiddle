@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, capture the flag addict, passionate about information security, and computer science! 
 </h1>
 
-<h2>:triangular_flag_on_post: The best defense is a good offense: A detailed approach to mastering Ethical Hacking:</h2>
-Mastering my practicing penetration testing skills and perfecting my methodology by completing numerous CTFs and hacking challenges. I create content on how to navigate these challenges to help anyone learning about penetration testing. The write-ups are meant to be a learning resource and not to be abused in these training environments or anywhere else!
+<h2>:triangular_flag_on_post: The Best Defense is a Good Offense: A Detailed Approach to Mastering Ethical Hacking</h2>
+Mastering my penetration testing skills and perfecting my methodology by completing numerous CTFs and hacking challenges. I create content to help others navigate these challenges and learn about penetration testing. These write-ups are meant to be a learning resource and should not be abused in training environments or elsewhere!
 
 - 🔵 <b>Each machine that I have fully compromised on Offensive Security Proving Grounds Practice:</b>
 
@@ -15,7 +15,7 @@ Mastering my practicing penetration testing skills and perfecting my methodology
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/ClamAV">ClamAV</a>
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wheels">Wheels</a>
 
-<h2>🍯 Defending against actual attackers in Azure deployed Honey Network:</h2>
+<h2>🍯 Defending Against Actual Attackers in an Azure-Depployed Honey Network:</h2>
   
   - Network Diagram of the Honey Network (Coming Soon)
   - What is happening here? A flowchart of expected activity (Coming Soon)
