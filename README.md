@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, capture the flag addict, passionate about information security, and computer science! 
 </h1>
 
-<h2>:triangular_flag_on_post: Best defense is mastering the offense: A Detailed Approach to Mastering Penetration Testing Methodology:</h2>
+<h2>:triangular_flag_on_post: Best defense is a good the offense: A Detailed Approach to Mastering Penetration Testing Methodology:</h2>
 Mastering my practicing penetration testing skills and perfecting my methodology by completing numerous CTFs and hacking challenges. I create content on how to navigate these challenges to help anyone learning about penetration testing. The write-ups are meant to be a learning resource and not to be abused in these training environments or anywhere else!
 
 - 🔵 <b>Each machine that I have fully compromised on Offensive Security Proving Grounds Practice:</b>
