@@ -1,5 +1,4 @@
 <h1>Hi, I'm Zach! ✋</h1>
-  
 <h2><a href="https://www.linkedin.com/in/zach-middleton/">Information Security Professional</a>, capture the flag addict, passionate about information security, and computer science! 
 </h2>
 
