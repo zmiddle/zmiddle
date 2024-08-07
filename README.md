@@ -6,7 +6,7 @@
 <h2>:triangular_flag_on_post: Practical Exploitation: A Detailed Approach to Mastering Penetration Testing:</h2>
 Mastering my practicing penetration testing skills and perfecting my methodology by completing numerous CTFs and hacking challenges. I create content on how to navigate these challenges to help anyone learning about penetration testing. The write-ups are meant to be a learning resource and not to be abused in these training environments or anywhere else!
 
-- 🔵 <b>Each machine that I have fully compromised on Offensive Security Proving Grounds Practice</b>
+- 🔵 <b>Each machine that I have fully compromised on Offensive Security Proving Grounds Practice:</b>
 
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Algernon">Algernon</a> is an easy Windows CTF challenge that features a Smarter Mail exploit.
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wombo">Wombo</a> is an intermediate Linux CTF challenge that features a Redis RCE exploit.
@@ -16,6 +16,11 @@ Mastering my practicing penetration testing skills and perfecting my methodology
   - <a href="https://github.com/zmiddle/CTF-Writeups/tree/main/OSPG/Wheels">Wheels</a>
 
 <h2>🍯 Deploying and performing Incident Response on Honey Network in Azure:</h2>
+- Network Diagram of the Honey Network (Coming Soon)
+- What is happening here? A flowchart of expected activity (Coming Soon)
+- Incident Response Procedure (Coming Soon)
+- Vulnerability management and Cyber operations (Coming Soon)
+- Reviewing the changes (Coming Soon)
   - [Link Comming Soon]
 
 <h2>:page_facing_up: Certifications:</h2>
